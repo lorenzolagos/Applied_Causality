@@ -1,0 +1,10 @@
+First Journal Entry: 02/01/2017
+
+I've created three projects under the Projects section. 
+
+1) Collective Bragaining Agreements: to collect the data on probationary period length, match it to the data, and verify that probationary period rules are being followed
+2) Causal Graph: the steps to generate the causal graph, check th eimplied conditional independence assumptions, and determine whether identification is viable
+3) Estimation Strategy: steps for implementing a reduced form and structural estimation of my causal effect of interest.
+
+I've started with the list of relevant variables for the causal graph (both observed and unobserved). I am currently looking into the Ministry of Labor's data to obtain th ecollective bargaining agreements.
+
