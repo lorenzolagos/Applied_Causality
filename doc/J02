@@ -1,0 +1,24 @@
+Here is my latest progress on the main tasks:
+
+1) Collective Bragaining Agreements:
+
+-The Brazilian Ministry of Labor (MTE) has been collecting these agreements into a database called Sistema Mediador para Depósito e Registro de Convenções e Acordos Coletivos de Trabalho since 2007
+-It is mandatory to register all collective bargaining agreements through this database since January 2009 (during 2007 and 2008 it was optional for unions to do so)
+-I should be able to match these documents to my main database (RAIS) using the firm identifier (CNPJ). That is, the collective bargaining agreements list the CNPJ of the union, which can then be linked to the CNPJ of firms covered by that union
+-Scraping the PDFs in the database would allow us to observe: 1) benefit details that should reflect compensating wage differentials; 2) length of probationary periods for recent hires; 3) race and gender inclusion efforts (among others)
+
+CONCLUSION: Data collection effort may be feasible, but definitely not feasible during this semester. I will continue by making reasonable guesses about the probationary period length (maybe use a few agreements I can find online). This means that my estimations will be off. But the interesting work is in the model, not the data collection. Once I'm satisfied with the model I'll turn toward this task.
+
+2) Causal Graph: 
+
+-Listed the set of relevant nodes (observed and unobserved)
+-Uploaded a candidate causal graph
+-The causal effect of probationary period length on the histogram of layoffs by tenure is not identified in my causal graph
+-May need to rely on proxies: crucial that measurement error of proxies are not correlated with any node that opens a backdoor path
+
+CONCLUSION: Work on potential proxies or making additional assumptions to make my causal effect identifiable. A potential work-around is to change the observational unit from the set of firms under a collective bargaining agreement to an individual employer-employee match (where wage, education, gender, etc. of the worker could be exploited)
+
+3) Estimation Strategy: 
+
+-No progress here
+-Need to build a model first
