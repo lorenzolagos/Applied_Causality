@@ -1,1 +1,17 @@
-Third
+Third Journal Entry: 02/28/2017
+
+Here is my latest progress on the main tasks:
+
+1) Collective Bragaining Agreements:
+-For current analysis I plan to back out the length of the probationary period from th edata
+-In particular, I will look at a region-occupation-year triple and check the histogram of end of period contract terminations
+-Based on the observed bunching, I will assign a probationary period length
+
+2) Causal Graph:
+-Uploaded a new version of the causal graph
+-Identification is satisfied in this new causal graph
+-Started work on model
+
+3) Estimation Strategy: 
+-No progress here
+-Need to build a model first
