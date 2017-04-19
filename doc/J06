@@ -3,28 +3,14 @@ Fifth Journal Entry: 04/18/2017
 Here is my latest progress on the main tasks:
 
 1) Collective Bragaining Agreements:
--Written code in stata to back out the length of the probationary periods
--Backing out is the best thing I can do because very few of the collective bargaining agreements specify the probationary period length
--Moreoever, when the probationary period length is mentioned, there is no variable that allows me to match the agreement to th eemployer-employee matched database
--I back out the probationary period length as follows:
-  a) Take years 2003-2010 of spell-year observations, removing unidentifiable individuals and duplicates in terms of (worker, firm, year,      hire date)
-  b) Remove observations in which a worker is rehired by the same firm (because probationary periods may not apply to these workers)
-  c) Remove observations where the worker has worked in the same occupation for another firm in the past (because probationary periods may      not apply to these workers)
-  d) Keep observations of urban workers with open ended contract that were hired under normal conditions with monthly wages
-  e) Keep observations that were separated from their employer under "Layoff" within 4 months of tenure (since this is the only relevant        period)
-  f) Keep observations that were separated from their employer under "End of Contract" within 3 months of tenure (since this is the only relevant period)
-  g) For each (firm, occupation, year) triple calculate the following
-    (i)   the maximum tenure for an End of Contract separation... and the number of observations used in the calculation
-    (ii)  the mode tenure for an End of Contract separation (excluding the maximum)... and the number of observations used in the                   calculation
-    (iii) the minimum tenure for a Layoff separation (may ignore this since it's not crucial)
-  h) Keep the maximum for those where at leats 5 observations were used in the calculation, the mode for those where at least 3                  observations were used in the calculation, and the minimum
-  i) The probationary period length for ecah (firm, occupation, year) triple is a contract at the mode (rounded to 1, 1.5, 2, and 3)          which can be renewed to the maximum (rounded to 1, 1.5, 2, and 3)
+-No progress here
 
 2) Causal Graph:
--No progress here
--I realized that causal model is a helpful guide, but my identification strategy relies on quasi-random variation indictated by the discontinuity in the firing cost schedule at the end of the probationary period
--Similar to what is done for regression discontinuity design or instrumental variables, I want to map this bunching approach to a causal graph
+-Drew a causal graph for the economic model of how probationary period length affects layoffs 
+-Created Jupyter notebooks to explain the motivation behind this project and the intuition behind the causal graphs
 
 3) Estimation Strategy: 
--No progress here
--Need to finish the model first
+-Finished writing an economic model
+-I am thinking about estimating it with simulated method of moments
+-Wrote Python code to generate simulations... still needs some debugging
+-Created Jupyter notebooks to show my progress in terms of the simulations
