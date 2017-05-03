@@ -1,0 +1,19 @@
+Seventh Journal Entry: 04/03/2017
+
+A few weeks ago, I presented progres on my project to the class. We are now in the final stages for submittng the last deliverable. So i would like to write down my goals for the May 12 deadline.
+
+1) Collective Bragaining Agreements:
+-Need to use a subsample of my data to check whether what I am doing makes sense
+-Start with the 2008 worker-spell observations in Roraima (one of the smallest states in Brazil)
+-Categorize each occupation-firm into a probationary period contract type
+-Check for 1) evidence of advance notice; 2) rehiring of workers fired during probationary periods; and 3) consistency in probationary period contract type for other years
+
+2) Causal Graph:
+-Frame the causal graph for collective bargaining agreements as a selection model
+-Frame the causal graph for the economic model of firm's firing decisions as the outcomes model
+
+3) Estimation Strategy: 
+-Explore the possibility of reduced form estimation through bunching
+-Explain the pros and cons of using MLE vs. SMM
+-Make sure Python code generates sensible simulations
+-Start process of estimation
