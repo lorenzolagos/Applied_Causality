@@ -1,0 +1,951 @@
+{smcl}
+{txt}{sf}{ul off}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}D:\RAIS_new\ProbPer\MG\MasterPP_MG_log.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res} 6 May 2017, 08:46:08
+D:\RAIS_new\Stata_files\MG
+{txt}(RAIS MG 2003 Data)
+{res}D:\RAIS_new\ProbPer\MG
+Unidentifiable IDs (drop x==0)
+{txt}(4685697 missing values generated)
+(4685697 real changes made)
+
+          x {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}     25,811        0.55        0.55
+{txt}          1 {c |}{res}  4,685,697       99.45      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  4,711,508      100.00
+{txt}(25811 observations deleted)
+Duplicates (drop x==0)
+
+    tag(pis {c |}
+    estabid {c |}
+       year {c |}
+  hiredate) {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}      3,323        0.07        0.07
+{txt}          1 {c |}{res}  4,682,374       99.93      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  4,685,697      100.00
+{txt}(3323 observations deleted)
+(note: file MasterPP_MG.dta not found)
+file MasterPP_MG.dta saved
+{res}D:\RAIS_new\Stata_files\MG
+{txt}(RAIS MG 2004 Data)
+{res}D:\RAIS_new\ProbPer\MG
+Unidentifiable IDs (drop x==0)
+{txt}(4980653 missing values generated)
+(4980653 real changes made)
+
+          x {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}     35,520        0.71        0.71
+{txt}          1 {c |}{res}  4,980,653       99.29      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  5,016,173      100.00
+{txt}(35520 observations deleted)
+Duplicates (drop x==0)
+
+    tag(pis {c |}
+    estabid {c |}
+       year {c |}
+  hiredate) {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}      3,856        0.08        0.08
+{txt}          1 {c |}{res}  4,976,797       99.92      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  4,980,653      100.00
+{txt}(3856 observations deleted)
+(label emptype_lab already defined)
+(label sepcause_lab already defined)
+(label hiretype_lab already defined)
+(label wagetype_lab already defined)
+(label concla_lab already defined)
+file MasterPP_MG.dta saved
+{res}D:\RAIS_new\Stata_files\MG
+{txt}(RAIS MG 2005 Data)
+{res}D:\RAIS_new\ProbPer\MG
+Unidentifiable IDs (drop x==0)
+{txt}(5359885 missing values generated)
+(5359885 real changes made)
+
+          x {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}     55,549        1.03        1.03
+{txt}          1 {c |}{res}  5,359,885       98.97      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  5,415,434      100.00
+{txt}(55549 observations deleted)
+Duplicates (drop x==0)
+
+    tag(pis {c |}
+    estabid {c |}
+       year {c |}
+  hiredate) {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}      4,273        0.08        0.08
+{txt}          1 {c |}{res}  5,355,612       99.92      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  5,359,885      100.00
+{txt}(4273 observations deleted)
+(label emptype_lab already defined)
+(label sepcause_lab already defined)
+(label hiretype_lab already defined)
+(label wagetype_lab already defined)
+(label concla_lab already defined)
+file MasterPP_MG.dta saved
+{res}D:\RAIS_new\Stata_files\MG
+{txt}(RAIS MG 2006 Data)
+{res}D:\RAIS_new\ProbPer\MG
+Unidentifiable IDs (drop x==0)
+{txt}(5721029 missing values generated)
+(5721029 real changes made)
+
+          x {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}     77,462        1.34        1.34
+{txt}          1 {c |}{res}  5,721,029       98.66      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  5,798,491      100.00
+{txt}(77462 observations deleted)
+Duplicates (drop x==0)
+
+    tag(pis {c |}
+    estabid {c |}
+       year {c |}
+  hiredate) {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}      8,039        0.14        0.14
+{txt}          1 {c |}{res}  5,712,990       99.86      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  5,721,029      100.00
+{txt}(8039 observations deleted)
+(label emptype_lab already defined)
+(label sepcause_lab already defined)
+(label hiretype_lab already defined)
+(label wagetype_lab already defined)
+(label concla_lab already defined)
+file MasterPP_MG.dta saved
+{res}D:\RAIS_new\Stata_files\MG
+{txt}(RAIS MG 2007 Data)
+{res}D:\RAIS_new\ProbPer\MG
+Unidentifiable IDs (drop x==0)
+{txt}(6083446 missing values generated)
+(6083446 real changes made)
+
+          x {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}     92,972        1.51        1.51
+{txt}          1 {c |}{res}  6,083,446       98.49      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  6,176,418      100.00
+{txt}(92972 observations deleted)
+Duplicates (drop x==0)
+
+    tag(pis {c |}
+    estabid {c |}
+       year {c |}
+  hiredate) {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}      6,407        0.11        0.11
+{txt}          1 {c |}{res}  6,077,039       99.89      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  6,083,446      100.00
+{txt}(6407 observations deleted)
+(label concla_lab already defined)
+(label wagetype_lab already defined)
+(label hiretype_lab already defined)
+(label sepcause_lab already defined)
+(label emptype_lab already defined)
+file MasterPP_MG.dta saved
+{res}D:\RAIS_new\Stata_files\MG
+{txt}(RAIS MG 2008 Data)
+{res}D:\RAIS_new\ProbPer\MG
+Unidentifiable IDs (drop x==0)
+{txt}(6637114 missing values generated)
+(6637114 real changes made)
+
+          x {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}    102,406        1.52        1.52
+{txt}          1 {c |}{res}  6,637,114       98.48      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  6,739,520      100.00
+{txt}(102406 observations deleted)
+Duplicates (drop x==0)
+
+    tag(pis {c |}
+    estabid {c |}
+       year {c |}
+  hiredate) {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}      5,653        0.09        0.09
+{txt}          1 {c |}{res}  6,631,461       99.91      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  6,637,114      100.00
+{txt}(5653 observations deleted)
+(label concla_lab already defined)
+(label wagetype_lab already defined)
+(label hiretype_lab already defined)
+(label sepcause_lab already defined)
+(label emptype_lab already defined)
+file MasterPP_MG.dta saved
+{res}D:\RAIS_new\Stata_files\MG
+{txt}(RAIS MG 2009 Data)
+{res}D:\RAIS_new\ProbPer\MG
+Unidentifiable IDs (drop x==0)
+{txt}(6681976 missing values generated)
+(6681976 real changes made)
+
+          x {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}    103,119        1.52        1.52
+{txt}          1 {c |}{res}  6,681,976       98.48      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  6,785,095      100.00
+{txt}(103119 observations deleted)
+Duplicates (drop x==0)
+
+    tag(pis {c |}
+    estabid {c |}
+       year {c |}
+  hiredate) {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}      4,921        0.07        0.07
+{txt}          1 {c |}{res}  6,677,055       99.93      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  6,681,976      100.00
+{txt}(4921 observations deleted)
+(label concla_lab already defined)
+(label wagetype_lab already defined)
+(label hiretype_lab already defined)
+(label sepcause_lab already defined)
+(label emptype_lab already defined)
+file MasterPP_MG.dta saved
+{res}D:\RAIS_new\Stata_files\MG
+{txt}(RAIS MG 2010 Data)
+{res}D:\RAIS_new\ProbPer\MG
+Unidentifiable IDs (drop x==0)
+{txt}(7229564 missing values generated)
+(7229564 real changes made)
+
+          x {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}    110,777        1.51        1.51
+{txt}          1 {c |}{res}  7,229,564       98.49      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  7,340,341      100.00
+{txt}(110777 observations deleted)
+Duplicates (drop x==0)
+
+    tag(pis {c |}
+    estabid {c |}
+       year {c |}
+  hiredate) {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}      8,373        0.12        0.12
+{txt}          1 {c |}{res}  7,221,191       99.88      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  7,229,564      100.00
+{txt}(8373 observations deleted)
+(label concla_lab already defined)
+(label wagetype_lab already defined)
+(label hiretype_lab already defined)
+(label sepcause_lab already defined)
+(label emptype_lab already defined)
+file MasterPP_MG.dta saved
+(2018502 real changes made)
+(775285 real changes made)
+(3768405 real changes made)
+
+    Variable{col 17}{c |}     Missing          Total     Percent Missing
+{hline 16}{c +}{hline 47}
+            pis{col 17}{c |} {res}          0       47334519           0.00
+        {txt}estabid{col 17}{c |} {res}          0       47334519           0.00
+           {txt}year{col 17}{c |} {res}          0       47334519           0.00
+   {txt}municipality{col 17}{c |} {res}          0       47334519           0.00
+       {txt}wagetype{col 17}{c |} {res}          0       47334519           0.00
+       {txt}hiredate{col 17}{c |} {res}          0       47334519           0.00
+        {txt}emptype{col 17}{c |} {res}          0       47334519           0.00
+       {txt}hiretype{col 17}{c |} {res}          0       47334519           0.00
+       {txt}sepcause{col 17}{c |} {res}          0       47334519           0.00
+         {txt}tenure{col 17}{c |} {res}          0       47334519           0.00
+         {txt}concla{col 17}{c |} {res}          0       47334519           0.00
+    {txt}cnae10class{col 17}{c |} {res}          0       47334519           0.00
+          {txt}cbo02{col 17}{c |} {res}    404,531       47334519           0.85
+{txt}{hline 16}{c +}{hline 47}
+(19947832 real changes made)
+(108565 real changes made)
+
+    rehired {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res} 14,152,898       76.32       76.32
+{txt}          1 {c |}{res}  4,392,048       23.68      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res} 18,544,946      100.00
+
+    {txt}rehired {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res} 11,242,161       76.63       76.63
+{txt}          1 {c |}{res}  3,428,050       23.37      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res} 14,670,211      100.00
+{txt}
+{c TLC}{hline 16}{c TRC}
+{c |} Key{col 18}{c |}
+{c LT}{hline 16}{c RT}
+{c |}{space 3}{it:frequency}{col 18}{c |}
+{c |}{space 1}{it:row percentage}{col 18}{c |}
+{c BLC}{hline 16}{c BRC}
+
+                      {c |}        rehired
+  Cause of Separation {c |}         0          1 {c |}     Total
+{hline 22}{c +}{hline 22}{c +}{hline 10}
+       No Separations {c |}{res} 5,236,386  2,113,778 {txt}{c |}{res} 7,350,164 
+                      {txt}{c |}{res}     71.24      28.76 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Termination with Due  {c |}{res}    49,767     10,702 {txt}{c |}{res}    60,469 
+                      {txt}{c |}{res}     82.30      17.70 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Termination without D {c |}{res} 2,173,402    355,939 {txt}{c |}{res} 2,529,341 
+                      {txt}{c |}{res}     85.93      14.07 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+      End of Contract {c |}{res} 2,128,613    680,110 {txt}{c |}{res} 2,808,723 
+                      {txt}{c |}{res}     75.79      24.21 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+  Quit with Due Cause {c |}{res}     9,497      2,337 {txt}{c |}{res}    11,834 
+                      {txt}{c |}{res}     80.25      19.75 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Quit without Due Caus {c |}{res} 1,434,536    180,800 {txt}{c |}{res} 1,615,336 
+                      {txt}{c |}{res}     88.81      11.19 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Possession of Other O {c |}{res}       117        124 {txt}{c |}{res}       241 
+                      {txt}{c |}{res}     48.55      51.45 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Transfer with Cost Tr {c |}{res}    15,168      2,670 {txt}{c |}{res}    17,838 
+                      {txt}{c |}{res}     85.03      14.97 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Transfer without Cost {c |}{res}   178,757     76,622 {txt}{c |}{res}   255,379 
+                      {txt}{c |}{res}     70.00      30.00 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Rehabilitation (for p {c |}{res}         2          0 {txt}{c |}{res}         2 
+                      {txt}{c |}{res}    100.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+             Disposal {c |}{res}         8          1 {txt}{c |}{res}         9 
+                      {txt}{c |}{res}     88.89      11.11 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+  Labor Regime Change {c |}{res}     4,291      1,007 {txt}{c |}{res}     5,298 
+                      {txt}{c |}{res}     80.99      19.01 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+      Military Reform {c |}{res}       555      1,337 {txt}{c |}{res}     1,892 
+                      {txt}{c |}{res}     29.33      70.67 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+                Death {c |}{res}     8,445      1,504 {txt}{c |}{res}     9,949 
+                      {txt}{c |}{res}     84.88      15.12 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+ Death (work-related) {c |}{res}       382         50 {txt}{c |}{res}       432 
+                      {txt}{c |}{res}     88.43      11.57 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Death (in transit to  {c |}{res}       119         22 {txt}{c |}{res}       141 
+                      {txt}{c |}{res}     84.40      15.60 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Death (from occupatio {c |}{res}        18          4 {txt}{c |}{res}        22 
+                      {txt}{c |}{res}     81.82      18.18 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Retirement by Time Co {c |}{res}       363        478 {txt}{c |}{res}       841 
+                      {txt}{c |}{res}     43.16      56.84 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Retirement by Time Co {c |}{res}       665        202 {txt}{c |}{res}       867 
+                      {txt}{c |}{res}     76.70      23.30 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Retirement by Age (wi {c |}{res}       122         48 {txt}{c |}{res}       170 
+                      {txt}{c |}{res}     71.76      28.24 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Retirement by Disabil {c |}{res}       242        171 {txt}{c |}{res}       413 
+                      {txt}{c |}{res}     58.60      41.40 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Retirement by Disabil {c |}{res}        94          7 {txt}{c |}{res}       101 
+                      {txt}{c |}{res}     93.07       6.93 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Compulsory Retirement {c |}{res}        35          7 {txt}{c |}{res}        42 
+                      {txt}{c |}{res}     83.33      16.67 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Retirement by Disabil {c |}{res}       121         49 {txt}{c |}{res}       170 
+                      {txt}{c |}{res}     71.18      28.82 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Retirement by Age (wi {c |}{res}        65         22 {txt}{c |}{res}        87 
+                      {txt}{c |}{res}     74.71      25.29 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Special Retirement (w {c |}{res}       215         39 {txt}{c |}{res}       254 
+                      {txt}{c |}{res}     84.65      15.35 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+Special Retirement (w {c |}{res}       176         20 {txt}{c |}{res}       196 
+                      {txt}{c |}{res}     89.80      10.20 {txt}{c |}{res}    100.00 
+{txt}{hline 22}{c +}{hline 22}{c +}{hline 10}
+                Total {c |}{res}11,242,161  3,428,050 {txt}{c |}{res}14,670,211 
+                      {txt}{c |}{res}     76.63      23.37 {txt}{c |}{res}    100.00 
+
+{txt}(15756188 real changes made)
+(289391 real changes made)
+Drop Rehired (drop rehired==1)
+
+    rehired {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res} 42,833,906       90.49       90.49
+{txt}          1 {c |}{res}  4,500,613        9.51      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res} 47,334,519      100.00
+{txt}(4500613 observations deleted)
+Drop Reoccupation (drop reocc==1)
+
+      reocc {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res} 38,713,744       90.38       90.38
+{txt}          1 {c |}{res}  4,120,162        9.62      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res} 42,833,906      100.00
+{txt}(4120162 observations deleted)
+Urban + Open Ended (drop x==0)
+
+          x {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res} 11,274,732       29.12       29.12
+{txt}          1 {c |}{res} 27,439,012       70.88      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res} 38,713,744      100.00
+{txt}(11274732 observations deleted)
+End of Contract + Layoff (drop x==0)
+
+          x {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res} 19,846,326       72.33       72.33
+{txt}          1 {c |}{res}  7,592,686       27.67      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res} 27,439,012      100.00
+{txt}(19846326 observations deleted)
+Normal Hire (drop x==0)
+
+          x {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}     25,128        0.33        0.33
+{txt}          1 {c |}{res}  7,567,558       99.67      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  7,592,686      100.00
+{txt}(25128 observations deleted)
+Monthly Wage (drop x==0)
+
+          x {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}    740,147        9.78        9.78
+{txt}          1 {c |}{res}  6,827,411       90.22      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  7,567,558      100.00
+{txt}(740147 observations deleted)
+Drop Unnecessarily Long Tenures (drop x==1)
+
+          x {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}  2,023,911       29.64       29.64
+{txt}          1 {c |}{res}  4,803,500       70.36      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  6,827,411      100.00
+{txt}(4803500 observations deleted)
+(note: file test.dta not found)
+file test.dta saved
+Drop Anomalous End of Contract (drop x==1)
+
+          x {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}  2,000,757       98.86       98.86
+{txt}          1 {c |}{res}     23,154        1.14      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}  2,023,911      100.00
+{txt}(23154 observations deleted)
+(328638 real changes made)
+(115022 real changes made)
+(168444 real changes made)
+(171003 real changes made)
+(1135953 missing values generated)
+(587244 real changes made, 587244 to missing)
+{p}{txt}Warning: at least one group contains all
+missing values or contains multiple modes.
+Generating missing values for the mode of these
+groups.  Use the {cmd: missing}, {cmd:maxmode},
+{cmd:minmode}, or {cmd:nummode()}
+options to control this behavior.{p_end}
+(1556529 missing values generated)
+(1723197 missing values generated)
+(1265677 real changes made, 1265677 to missing)
+(587244 real changes made)
+(864804 missing values generated)
+(1135953 missing values generated)
+(864804 missing values generated)
+(469920 real changes made)
+(785139 real changes made)
+(283270 real changes made)
+(0 real changes made)
+(0 real changes made)
+
+    Variable{col 17}{c |}     Missing          Total     Percent Missing
+{hline 16}{c +}{hline 47}
+        estabid{col 17}{c |} {res}          0        863,031           0.00
+           {txt}year{col 17}{c |} {res}          0        863,031           0.00
+   {txt}municipality{col 17}{c |} {res}          0        863,031           0.00
+         {txt}concla{col 17}{c |} {res}          0        863,031           0.00
+    {txt}cnae10class{col 17}{c |} {res}          0        863,031           0.00
+          {txt}cbo02{col 17}{c |} {res}         22        863,031           0.00
+          {txt}ppmax{col 17}{c |} {res}    469,920        863,031          54.45
+         {txt}ppmode{col 17}{c |} {res}    793,102        863,031          91.90
+          {txt}ppmin{col 17}{c |} {res}    283,270        863,031          32.82
+       {txt}countmax{col 17}{c |} {res}          0        863,031           0.00
+      {txt}countmode{col 17}{c |} {res}          0        863,031           0.00
+       {txt}countmin{col 17}{c |} {res}          0        863,031           0.00
+{txt}{hline 16}{c +}{hline 47}
+
+     (mean) {c |}
+      ppmax {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          1 {c |}{res}     62,830       15.98       15.98
+{txt}        1.5 {c |}{res}     70,834       18.02       34.00
+{txt}          2 {c |}{res}     63,856       16.24       50.25
+{txt}          3 {c |}{res}    195,591       49.75      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}    393,111      100.00
+
+     {txt}(mean) {c |}
+      ppmax {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          1 {c |}{res}        820        3.09        3.09
+{txt}        1.5 {c |}{res}        975        3.67        6.76
+{txt}          2 {c |}{res}      2,907       10.94       17.70
+{txt}          3 {c |}{res}     21,863       82.30      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}     26,565      100.00
+
+     {txt}(mean) {c |}
+     ppmode {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          1 {c |}{res}     30,898       44.18       44.18
+{txt}        1.5 {c |}{res}     26,934       38.52       82.70
+{txt}          2 {c |}{res}     12,097       17.30      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}     69,929      100.00
+
+     {txt}(mean) {c |}
+     ppmode {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          1 {c |}{res}      7,951       45.87       45.87
+{txt}        1.5 {c |}{res}      6,223       35.90       81.77
+{txt}          2 {c |}{res}      3,159       18.23      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}     17,333      100.00
+{txt}(836466 missing values generated)
+(845698 missing values generated)
+(9232 real changes made)
+(836466 observations deleted)
+{err}{p 0 4 2}
+file MasterPP_MG.dta cannot be modified or erased;
+likely cause is read-only
+directory or file
+{p_end}
+{txt}{search r(608):r(608);}
+
+end of do-file
+
+{search r(608):r(608);}
+
+{com}. save MasterPP_MG, replace
+{txt}file MasterPP_MG.dta saved
+
+{com}. do "C:\Users\Lorenzo\AppData\Local\Temp\STD03000000.tmp"
+{txt}
+{com}. local qgrp "MG"
+{txt}
+{com}. *local qgrp "RR AC AP TO PI SE AL RO PB AM RN MA MS MT ES PA DF CE GO PE BA SC RS PR MG RJ SP"
+. local m : word count `qgrp'
+{txt}
+{com}. forvalues k = 1/`m' {c -(}
+{txt}  2{com}. local q : word `k' of `qgrp'
+{txt}  3{com}. ***PLOT SEPARATION HISTOGRAM***
+. //shows moments for estimation
+. //shows evidence of advance notice
+. 
+. *All (firm, occupation, year) triples
+. use test, clear
+{txt}  4{com}. 
+. collapse (count) pis, by(tenure sepcause)
+{txt}  5{com}. line pis tenure if sepcause==11 || line pis tenure if sepcause==12, /*
+> */ ytitle("Frequency") xtitle("Tenure (months)") xscale(range(0 6)) xlabel(0(1)6) xmtick(0(1)6)/*
+> */ title("Separation Histogram") subtitle("Minas Gerais, 2002-2010") /*
+> */ legend(label(1 "Layoff") label(2 "End of Contract")) /*
+> */ note("Analysis sample of workers first time observed at firm and occupation" /*
+> */ "(using all firm-occupation-year triples)")
+{txt}  6{com}. graph save separationhist_all, replace
+{txt}  7{com}. 
+. *Only (firm, occupation, year) triples for which we can back our probationary period
+. use test, clear
+{txt}  8{com}. sort cbo02 estabid year
+{txt}  9{com}. merge m:1 cbo02 estabid year using MasterPP_`q', noreport keep(3)
+{txt} 10{com}. drop _merge
+{txt} 11{com}. 
+. collapse (count) pis, by(tenure sepcause)
+{txt} 12{com}. line pis tenure if sepcause==11 || line pis tenure if sepcause==12, /*
+> */ ytitle("Frequency") xtitle("Tenure (months)") xscale(range(0 6)) xlabel(0(1)6) xmtick(0(1)6)/*
+> */ title("Separation Histogram") subtitle("Minas Gerais, 2002-2010") /*
+> */ legend(label(1 "Layoff") label(2 "End of Contract")) /*
+> */ note("Analysis sample of workers first time observed at firm and occupation" /*
+> */ "(using triples for which probationary period can be inferred)")
+{txt} 13{com}. graph save separationhist_pp, replace
+{txt} 14{com}. 
+. *By inferred probationary period
+. use test, clear
+{txt} 15{com}. sort cbo02 estabid year
+{txt} 16{com}. merge m:1 cbo02 estabid year using MasterPP_`q', noreport keep(3)
+{txt} 17{com}. drop _merge
+{txt} 18{com}. sort pp2 pp1
+{txt} 19{com}. egen pp=group(pp2 pp1)
+{txt} 20{com}. //group 1 (0.0-1.0); 2 (0.0-1.5); 3 (1.0-1.5); 4 (0.0-2.0); 5 (1.0-2.0); 6 (1.5-2.0); 
+. //group 7 (0.0-3.0); 8 (1.0-3.0); 9 (1.5-3.0); and 10 (2.0-3.0)
+. 
+. collapse (count) pis, by(tenure sepcause pp)
+{txt} 21{com}. 
+. line pis tenure if sepcause==11 & pp==1 || line pis tenure if sepcause==12 & pp==1, /*
+> */ ytitle("Frequency") xtitle("Tenure (months)") xscale(range(0 6)) xlabel(0(1)6) xmtick(0(1)6)/*
+> */ title("Separation Histogram (0.0-1.0 pp)") subtitle("Minas Gerais, 2002-2010") /*
+> */ legend(label(1 "Layoff") label(2 "End of Contract")) /*
+> */ note("Analysis sample of workers first time observed at firm and occupation" /*
+> */ "(using triples for which probationary period can be inferred)")
+{txt} 22{com}. graph save separationhist_pp00-10, replace
+{txt} 23{com}. 
+. line pis tenure if sepcause==11 & pp==2 || line pis tenure if sepcause==12 & pp==2, /*
+> */ ytitle("Frequency") xtitle("Tenure (months)") xscale(range(0 6)) xlabel(0(1)6) xmtick(0(1)6)/*
+> */ title("Separation Histogram (0.0-1.5 pp)") subtitle("Minas Gerais, 2002-2010") /*
+> */ legend(label(1 "Layoff") label(2 "End of Contract")) /*
+> */ note("Analysis sample of workers first time observed at firm and occupation" /*
+> */ "(using triples for which probationary period can be inferred)")
+{txt} 24{com}. graph save separationhist_pp00-15, replace
+{txt} 25{com}. 
+. line pis tenure if sepcause==11 & pp==3 || line pis tenure if sepcause==12 & pp==3, /*
+> */ ytitle("Frequency") xtitle("Tenure (months)") xscale(range(0 6)) xlabel(0(1)6) xmtick(0(1)6)/*
+> */ title("Separation Histogram (1.0-1.5 pp)") subtitle("Minas Gerais, 2002-2010") /*
+> */ legend(label(1 "Layoff") label(2 "End of Contract")) /*
+> */ note("Analysis sample of workers first time observed at firm and occupation" /*
+> */ "(using triples for which probationary period can be inferred)")
+{txt} 26{com}. graph save separationhist_pp10-15, replace
+{txt} 27{com}. 
+. line pis tenure if sepcause==11 & pp==4 || line pis tenure if sepcause==12 & pp==4, /*
+> */ ytitle("Frequency") xtitle("Tenure (months)") xscale(range(0 6)) xlabel(0(1)6) xmtick(0(1)6)/*
+> */ title("Separation Histogram (0.0-2.0 pp)") subtitle("Minas Gerais, 2002-2010") /*
+> */ legend(label(1 "Layoff") label(2 "End of Contract")) /*
+> */ note("Analysis sample of workers first time observed at firm and occupation" /*
+> */ "(using triples for which probationary period can be inferred)")
+{txt} 28{com}. graph save separationhist_pp00-20, replace
+{txt} 29{com}. 
+. line pis tenure if sepcause==11 & pp==5 || line pis tenure if sepcause==12 & pp==5, /*
+> */ ytitle("Frequency") xtitle("Tenure (months)") xscale(range(0 6)) xlabel(0(1)6) xmtick(0(1)6)/*
+> */ title("Separation Histogram (1.0-2.0 pp)") subtitle("Minas Gerais, 2002-2010") /*
+> */ legend(label(1 "Layoff") label(2 "End of Contract")) /*
+> */ note("Analysis sample of workers first time observed at firm and occupation" /*
+> */ "(using triples for which probationary period can be inferred)")
+{txt} 30{com}. graph save separationhist_pp10-20, replace
+{txt} 31{com}. 
+. line pis tenure if sepcause==11 & pp==6 || line pis tenure if sepcause==12 & pp==6, /*
+> */ ytitle("Frequency") xtitle("Tenure (months)") xscale(range(0 6)) xlabel(0(1)6) xmtick(0(1)6)/*
+> */ title("Separation Histogram (1.5-2.0 pp)") subtitle("Minas Gerais, 2002-2010") /*
+> */ legend(label(1 "Layoff") label(2 "End of Contract")) /*
+> */ note("Analysis sample of workers first time observed at firm and occupation" /*
+> */ "(using triples for which probationary period can be inferred)")
+{txt} 32{com}. graph save separationhist_pp15-20, replace
+{txt} 33{com}. 
+. line pis tenure if sepcause==11 & pp==7 || line pis tenure if sepcause==12 & pp==7, /*
+> */ ytitle("Frequency") xtitle("Tenure (months)") xscale(range(0 6)) xlabel(0(1)6) xmtick(0(1)6)/*
+> */ title("Separation Histogram (0.0-3.0 pp)") subtitle("Minas Gerais, 2002-2010") /*
+> */ legend(label(1 "Layoff") label(2 "End of Contract")) /*
+> */ note("Analysis sample of workers first time observed at firm and occupation" /*
+> */ "(using triples for which probationary period can be inferred)")
+{txt} 34{com}. graph save separationhist_pp00-30, replace
+{txt} 35{com}. 
+. line pis tenure if sepcause==11 & pp==8 || line pis tenure if sepcause==12 & pp==8, /*
+> */ ytitle("Frequency") xtitle("Tenure (months)") xscale(range(0 6)) xlabel(0(1)6) xmtick(0(1)6)/*
+> */ title("Separation Histogram (1.0-3.0 pp)") subtitle("Minas Gerais, 2002-2010") /*
+> */ legend(label(1 "Layoff") label(2 "End of Contract")) /*
+> */ note("Analysis sample of workers first time observed at firm and occupation" /*
+> */ "(using triples for which probationary period can be inferred)")
+{txt} 36{com}. graph save separationhist_pp10-30, replace
+{txt} 37{com}. 
+. line pis tenure if sepcause==11 & pp==9 || line pis tenure if sepcause==12 & pp==9, /*
+> */ ytitle("Frequency") xtitle("Tenure (months)") xscale(range(0 6)) xlabel(0(1)6) xmtick(0(1)6)/*
+> */ title("Separation Histogram (1.5-3.0 pp)") subtitle("Minas Gerais, 2002-2010") /*
+> */ legend(label(1 "Layoff") label(2 "End of Contract")) /*
+> */ note("Analysis sample of workers first time observed at firm and occupation" /*
+> */ "(using triples for which probationary period can be inferred)")
+{txt} 38{com}. graph save separationhist_pp15-30, replace
+{txt} 39{com}. 
+. line pis tenure if sepcause==11 & pp==10 || line pis tenure if sepcause==12 & pp==10, /*
+> */ ytitle("Frequency") xtitle("Tenure (months)") xscale(range(0 6)) xlabel(0(1)6) xmtick(0(1)6)/*
+> */ title("Separation Histogram (2.0-3.0 pp)") subtitle("Minas Gerais, 2002-2010") /*
+> */ legend(label(1 "Layoff") label(2 "End of Contract")) /*
+> */ note("Analysis sample of workers first time observed at firm and occupation" /*
+> */ "(using triples for which probationary period can be inferred)")
+{txt} 40{com}. graph save separationhist_pp20-30, replace
+{txt} 41{com}. 
+. 
+. ***CHECKS ON EXPERIENCE CONTRACTS***
+. 
+. //similar for firm-occupation across years?
+. use MasterPP_`q', clear
+{txt} 42{com}. egen pp=group(pp2 pp1)
+{txt} 43{com}. 
+. bysort cbo02 estabid: drop if [_N]==1
+{txt} 44{com}. egen pptypes=tag(cbo02 estabid pp)
+{txt} 45{com}. collapse (sum) pptypes, by(cbo02 estabid)
+{txt} 46{com}. disp("ACROSS YEARS")
+{txt} 47{com}. tab pptypes
+{txt} 48{com}. 
+. //similar for firm-year across occupations?
+. use MasterPP_`q', clear
+{txt} 49{com}. egen pp=group(pp2 pp1)
+{txt} 50{com}. 
+. bysort estabid year: drop if [_N]==1
+{txt} 51{com}. egen pptypes=tag(estabid year pp)
+{txt} 52{com}. collapse (sum) pptypes, by(estabid year)
+{txt} 53{com}. disp("ACROSS OCCUPATIONS")
+{txt} 54{com}. tab pptypes
+{txt} 55{com}. 
+. //similar for occupation-year across firms?
+. use MasterPP_`q', clear
+{txt} 56{com}. egen pp=group(pp2 pp1)
+{txt} 57{com}. 
+. bysort cbo02 year: drop if [_N]==1
+{txt} 58{com}. egen pptypes=tag(cbo02 year pp)
+{txt} 59{com}. collapse (sum) pptypes, by(cbo02 year)
+{txt} 60{com}. disp("ACROSS FIRMS")
+{txt} 61{com}. tab pptypes
+{txt} 62{com}. drop pptypes
+{txt} 63{com}. 
+. //Any link to collective bargaining agreements?
+. //can't match but the degree of variability in the type of prob. period. across
+. //firms for a given occupation-year should provide suggestive evidence 
+. 
+. 
+. ***COMPARING HISTOGRAMS WITHIN STATE-YEAR-OCCUPATION***
+. 
+. use MasterPP_`q', clear
+{txt} 64{com}. 
+. egen obs=count(estabid), by(cbo02 year)
+{txt} 65{com}. tab obs
+{txt} 66{com}. drop obs
+{txt} 67{com}. 
+. //a single state-year-occupation does not have enough observations to
+. //compute a single histogram, even less for comparing across pp types
+. 
+. *!erase "C:\Users\lfl2121\Documents\RAIS_new\ProbPer\`q'\test.dta"
+. !erase "D:\RAIS_new\ProbPer\`q'\test.dta"
+{txt} 68{com}. 
+. timer off 1
+{txt} 69{com}. timer list 1
+{txt} 70{com}. log close
+{txt} 71{com}. 
+. {c )-}
+{txt}(RAIS MG 2010 Data)
+{res}{txt}(note: file separationhist_all.gph not found)
+{res}{txt}(file separationhist_all.gph saved)
+(RAIS MG 2010 Data)
+{res}{txt}(label concla_lab already defined)
+{res}{txt}(note: file separationhist_pp.gph not found)
+{res}{txt}(file separationhist_pp.gph saved)
+(RAIS MG 2010 Data)
+{res}{txt}(label concla_lab already defined)
+{res}{txt}(note: file separationhist_pp00-10.gph not found)
+{res}{txt}(file separationhist_pp00-10.gph saved)
+{res}{txt}(note: file separationhist_pp00-15.gph not found)
+{res}{txt}(file separationhist_pp00-15.gph saved)
+{res}{txt}(note: file separationhist_pp10-15.gph not found)
+{res}{txt}(file separationhist_pp10-15.gph saved)
+{res}{txt}(note: file separationhist_pp00-20.gph not found)
+{res}{txt}(file separationhist_pp00-20.gph saved)
+{res}{txt}(note: file separationhist_pp10-20.gph not found)
+{res}{txt}(file separationhist_pp10-20.gph saved)
+{res}{txt}(note: file separationhist_pp15-20.gph not found)
+{res}{txt}(file separationhist_pp15-20.gph saved)
+{res}{txt}(note: file separationhist_pp00-30.gph not found)
+{res}{txt}(file separationhist_pp00-30.gph saved)
+{res}{txt}(note: file separationhist_pp10-30.gph not found)
+{res}{txt}(file separationhist_pp10-30.gph saved)
+{res}{txt}(note: file separationhist_pp15-30.gph not found)
+{res}{txt}(file separationhist_pp15-30.gph saved)
+{res}{txt}(note: file separationhist_pp20-30.gph not found)
+{res}{txt}(file separationhist_pp20-30.gph saved)
+(RAIS MG Master PP)
+(10994 observations deleted)
+ACROSS YEARS
+
+      (sum) {c |}
+    pptypes {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          1 {c |}{res}      1,237       23.83       23.83
+{txt}          2 {c |}{res}      2,867       55.22       79.04
+{txt}          3 {c |}{res}        849       16.35       95.40
+{txt}          4 {c |}{res}        222        4.28       99.67
+{txt}          5 {c |}{res}         17        0.33      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}      5,192      100.00
+{txt}(RAIS MG Master PP)
+(17930 observations deleted)
+ACROSS OCCUPATIONS
+
+      (sum) {c |}
+    pptypes {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          1 {c |}{res}      1,172       33.39       33.39
+{txt}          2 {c |}{res}      1,995       56.84       90.23
+{txt}          3 {c |}{res}        284        8.09       98.32
+{txt}          4 {c |}{res}         44        1.25       99.57
+{txt}          5 {c |}{res}         14        0.40       99.97
+{txt}          6 {c |}{res}          1        0.03      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}      3,510      100.00
+{txt}(RAIS MG Master PP)
+(1489 observations deleted)
+ACROSS FIRMS
+
+      (sum) {c |}
+    pptypes {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          1 {c |}{res}        125        6.38        6.38
+{txt}          2 {c |}{res}        680       34.69       41.07
+{txt}          3 {c |}{res}        392       20.00       61.07
+{txt}          4 {c |}{res}        256       13.06       74.13
+{txt}          5 {c |}{res}        168        8.57       82.70
+{txt}          6 {c |}{res}        124        6.33       89.03
+{txt}          7 {c |}{res}         89        4.54       93.57
+{txt}          8 {c |}{res}         55        2.81       96.38
+{txt}          9 {c |}{res}         41        2.09       98.47
+{txt}         10 {c |}{res}         30        1.53      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}      1,960      100.00
+{txt}(RAIS MG Master PP)
+
+        obs {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          1 {c |}{res}      1,489        5.61        5.61
+{txt}          2 {c |}{res}      1,090        4.10        9.71
+{txt}          3 {c |}{res}        996        3.75       13.46
+{txt}          4 {c |}{res}        828        3.12       16.57
+{txt}          5 {c |}{res}        705        2.65       19.23
+{txt}          6 {c |}{res}        528        1.99       21.22
+{txt}          7 {c |}{res}        518        1.95       23.17
+{txt}          8 {c |}{res}        464        1.75       24.91
+{txt}          9 {c |}{res}        360        1.36       26.27
+{txt}         10 {c |}{res}        380        1.43       27.70
+{txt}         11 {c |}{res}        330        1.24       28.94
+{txt}         12 {c |}{res}        420        1.58       30.52
+{txt}         13 {c |}{res}        390        1.47       31.99
+{txt}         14 {c |}{res}        364        1.37       33.36
+{txt}         15 {c |}{res}        375        1.41       34.77
+{txt}         16 {c |}{res}        240        0.90       35.67
+{txt}         17 {c |}{res}        289        1.09       36.76
+{txt}         18 {c |}{res}        252        0.95       37.71
+{txt}         19 {c |}{res}        266        1.00       38.71
+{txt}         20 {c |}{res}        160        0.60       39.31
+{txt}         21 {c |}{res}        231        0.87       40.18
+{txt}         22 {c |}{res}        154        0.58       40.76
+{txt}         23 {c |}{res}        184        0.69       41.46
+{txt}         24 {c |}{res}        312        1.17       42.63
+{txt}         25 {c |}{res}        225        0.85       43.48
+{txt}         26 {c |}{res}        260        0.98       44.46
+{txt}         27 {c |}{res}        189        0.71       45.17
+{txt}         28 {c |}{res}        168        0.63       45.80
+{txt}         29 {c |}{res}        232        0.87       46.67
+{txt}         30 {c |}{res}        300        1.13       47.80
+{txt}         31 {c |}{res}        217        0.82       48.62
+{txt}         32 {c |}{res}        160        0.60       49.22
+{txt}         33 {c |}{res}        132        0.50       49.72
+{txt}         34 {c |}{res}         68        0.26       49.98
+{txt}         35 {c |}{res}         35        0.13       50.11
+{txt}         36 {c |}{res}         72        0.27       50.38
+{txt}         37 {c |}{res}         37        0.14       50.52
+{txt}         38 {c |}{res}         38        0.14       50.66
+{txt}         39 {c |}{res}         39        0.15       50.81
+{txt}         40 {c |}{res}         40        0.15       50.96
+{txt}         41 {c |}{res}         41        0.15       51.11
+{txt}         43 {c |}{res}        172        0.65       51.76
+{txt}         44 {c |}{res}         88        0.33       52.09
+{txt}         45 {c |}{res}        360        1.36       53.45
+{txt}         46 {c |}{res}        184        0.69       54.14
+{txt}         47 {c |}{res}         47        0.18       54.32
+{txt}         48 {c |}{res}        144        0.54       54.86
+{txt}         49 {c |}{res}         98        0.37       55.23
+{txt}         50 {c |}{res}        100        0.38       55.60
+{txt}         51 {c |}{res}        153        0.58       56.18
+{txt}         52 {c |}{res}         52        0.20       56.37
+{txt}         53 {c |}{res}        106        0.40       56.77
+{txt}         54 {c |}{res}         54        0.20       56.98
+{txt}         55 {c |}{res}        110        0.41       57.39
+{txt}         56 {c |}{res}         56        0.21       57.60
+{txt}         57 {c |}{res}         57        0.21       57.82
+{txt}         58 {c |}{res}        174        0.65       58.47
+{txt}         59 {c |}{res}         59        0.22       58.69
+{txt}         60 {c |}{res}         60        0.23       58.92
+{txt}         61 {c |}{res}        122        0.46       59.38
+{txt}         62 {c |}{res}         62        0.23       59.61
+{txt}         63 {c |}{res}        126        0.47       60.09
+{txt}         64 {c |}{res}        128        0.48       60.57
+{txt}         65 {c |}{res}         65        0.24       60.81
+{txt}         66 {c |}{res}        132        0.50       61.31
+{txt}         67 {c |}{res}         67        0.25       61.56
+{txt}         68 {c |}{res}         68        0.26       61.82
+{txt}         69 {c |}{res}        138        0.52       62.34
+{txt}         70 {c |}{res}         70        0.26       62.60
+{txt}         76 {c |}{res}        152        0.57       63.17
+{txt}         78 {c |}{res}         78        0.29       63.47
+{txt}         85 {c |}{res}         85        0.32       63.79
+{txt}         87 {c |}{res}         87        0.33       64.11
+{txt}         88 {c |}{res}         88        0.33       64.45
+{txt}         89 {c |}{res}        267        1.01       65.45
+{txt}         93 {c |}{res}         93        0.35       65.80
+{txt}         94 {c |}{res}        188        0.71       66.51
+{txt}         96 {c |}{res}        288        1.08       67.59
+{txt}        104 {c |}{res}        104        0.39       67.98
+{txt}        105 {c |}{res}        210        0.79       68.77
+{txt}        107 {c |}{res}        107        0.40       69.18
+{txt}        108 {c |}{res}        108        0.41       69.58
+{txt}        109 {c |}{res}        109        0.41       69.99
+{txt}        110 {c |}{res}        110        0.41       70.41
+{txt}        112 {c |}{res}        224        0.84       71.25
+{txt}        113 {c |}{res}        113        0.43       71.68
+{txt}        118 {c |}{res}        236        0.89       72.57
+{txt}        125 {c |}{res}        125        0.47       73.04
+{txt}        134 {c |}{res}        134        0.50       73.54
+{txt}        138 {c |}{res}        138        0.52       74.06
+{txt}        144 {c |}{res}        432        1.63       75.69
+{txt}        155 {c |}{res}        155        0.58       76.27
+{txt}        162 {c |}{res}        162        0.61       76.88
+{txt}        164 {c |}{res}        164        0.62       77.50
+{txt}        207 {c |}{res}        207        0.78       78.28
+{txt}        211 {c |}{res}        211        0.79       79.07
+{txt}        217 {c |}{res}        217        0.82       79.89
+{txt}        226 {c |}{res}        226        0.85       80.74
+{txt}        285 {c |}{res}        285        1.07       81.81
+{txt}        303 {c |}{res}        303        1.14       82.95
+{txt}        342 {c |}{res}        342        1.29       84.24
+{txt}        439 {c |}{res}        439        1.65       85.89
+{txt}        486 {c |}{res}        486        1.83       87.72
+{txt}        490 {c |}{res}        490        1.84       89.57
+{txt}        499 {c |}{res}        499        1.88       91.44
+{txt}        508 {c |}{res}        508        1.91       93.36
+{txt}        528 {c |}{res}        528        1.99       95.34
+{txt}        591 {c |}{res}        591        2.22       97.57
+{txt}        646 {c |}{res}        646        2.43      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}     26,565      100.00
+   1:   1960.08 /        1 =    1960.0800
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}D:\RAIS_new\ProbPer\MG\MasterPP_MG_log.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res} 6 May 2017, 09:18:49
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}
