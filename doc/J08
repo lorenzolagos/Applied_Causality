@@ -1,0 +1,19 @@
+Eighth Journal Entry: 05/12/2017
+
+Today is the May 12th deadline, so below is my final entry for the semester.
+
+1) Collective Bragaining Agreements:
+-Categorized the occupation-firm-year triples in minas Gerais into different probationary contract types (methodology explained in my final report)
+-Based on the methodology for inferring probationary period length, it seems only reasonable to look into probationary contracts that do not allow renewal (i.e., 1.0, 1.5, 2.0, and 3.0 months of probation)
+-Found no convincing evidence on whether advance notices are respected in Brazil, but did find that rehiring is very common and that many of these end up being fired in new probationary contracts. 
+-One thing I forgot to look at is whether my sample of occupation-firm-year triples with reasonably inferred probationary period contracts seem to be consistent across firms (within occupation-year) and across years (within occupation-firm)
+-In my opinion, getting this right is essential for how credible my results will be for an economics audience
+
+2) Causal Graph:
+-My final report explains how the two causal graphs I've created can be framed in terms of the selection and outcome model
+-In my opinion, this was the most useful application of the topics we discussed this semester
+
+3) Estimation Strategy: 
+-I explain why reduced form estimation through bunching approaches is not feasible in my setting, as well as the reasons why SMM is a better estimation approach than MLE for this project (see final report)
+-Wrote code in Python that still needs some debugging (see Jupyter notebooks and final report)
+-Barely in the beginning stages of expanding my code to make casual inference
