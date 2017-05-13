@@ -228,7 +228,7 @@ class FireProblem(object):
         v_cols = np.empty(self.n*self.y.size*(self.t.size+1), dtype=object)
         it=0
         for k in range(self.n):
-            v_cols0 = np.array([(lambda z: (lambda x: interp(x, self.y, z)))(new_v[k,:,0])])
+            v_cols0 = np.array([(lambda z: (lambda x: interp(x, self.y, z)))(v[k,:,0])])
             for i in range(self.y.size):
                 for j in range(self.t.size+1):
                     if j != self.T_max: #from 0 to (T_max-1)
